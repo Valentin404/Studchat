@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Studchat/static/css/main.d8e6c1d5.chunk.css",
-    "main.js": "/Studchat/static/js/main.4d4b8dbe.chunk.js",
-    "main.js.map": "/Studchat/static/js/main.4d4b8dbe.chunk.js.map",
+    "main.js": "/Studchat/static/js/main.79ee1cf4.chunk.js",
+    "main.js.map": "/Studchat/static/js/main.79ee1cf4.chunk.js.map",
     "runtime-main.js": "/Studchat/static/js/runtime-main.918f9082.js",
     "runtime-main.js.map": "/Studchat/static/js/runtime-main.918f9082.js.map",
-    "static/js/2.c91c9d6d.chunk.js": "/Studchat/static/js/2.c91c9d6d.chunk.js",
-    "static/js/2.c91c9d6d.chunk.js.map": "/Studchat/static/js/2.c91c9d6d.chunk.js.map",
+    "static/js/2.40ac577f.chunk.js": "/Studchat/static/js/2.40ac577f.chunk.js",
+    "static/js/2.40ac577f.chunk.js.map": "/Studchat/static/js/2.40ac577f.chunk.js.map",
     "index.html": "/Studchat/index.html",
-    "precache-manifest.9e1298f87d2bfeb07479ab039fb45440.js": "/Studchat/precache-manifest.9e1298f87d2bfeb07479ab039fb45440.js",
+    "precache-manifest.421a4e2c87e4e05314817f0bb1c442a9.js": "/Studchat/precache-manifest.421a4e2c87e4e05314817f0bb1c442a9.js",
     "service-worker.js": "/Studchat/service-worker.js",
     "static/css/main.d8e6c1d5.chunk.css.map": "/Studchat/static/css/main.d8e6c1d5.chunk.css.map",
-    "static/js/2.c91c9d6d.chunk.js.LICENSE.txt": "/Studchat/static/js/2.c91c9d6d.chunk.js.LICENSE.txt",
+    "static/js/2.40ac577f.chunk.js.LICENSE.txt": "/Studchat/static/js/2.40ac577f.chunk.js.LICENSE.txt",
     "static/media/User_Img.jpg": "/Studchat/static/media/User_Img.2cde5aef.jpg",
     "static/media/login.png": "/Studchat/static/media/login.78e9cacd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.918f9082.js",
-    "static/js/2.c91c9d6d.chunk.js",
+    "static/js/2.40ac577f.chunk.js",
     "static/css/main.d8e6c1d5.chunk.css",
-    "static/js/main.4d4b8dbe.chunk.js"
+    "static/js/main.79ee1cf4.chunk.js"
   ]
 }
