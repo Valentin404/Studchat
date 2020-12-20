@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5a2106524f81f2f1b6d36fd4ca17b3d",
+    "revision": "370f06ab4e84229a49f9229c20ade7f7",
     "url": "/Studchat/index.html"
   },
   {
-    "revision": "51780484d0a1d2180a3e",
-    "url": "/Studchat/static/css/main.d8e6c1d5.chunk.css"
+    "revision": "7d5d7647387ec5924473",
+    "url": "/Studchat/static/css/main.0b4ec28b.chunk.css"
   },
   {
-    "revision": "68ae494ac75f0011afef",
-    "url": "/Studchat/static/js/2.40ac577f.chunk.js"
+    "revision": "1b2269663636290a018c",
+    "url": "/Studchat/static/js/2.3711cea4.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Studchat/static/js/2.40ac577f.chunk.js.LICENSE.txt"
+    "url": "/Studchat/static/js/2.3711cea4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51780484d0a1d2180a3e",
-    "url": "/Studchat/static/js/main.79ee1cf4.chunk.js"
+    "revision": "7d5d7647387ec5924473",
+    "url": "/Studchat/static/js/main.e067d4a3.chunk.js"
   },
   {
     "revision": "e710dde8cf744ca49d3a",
