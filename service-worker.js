@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Studchat/precache-manifest.0a2f658ce184f192c6b94827d8e9b0d4.js"
+  "/Studchat/precache-manifest.a87903ded1e3113f38239afe01f18a10.js"
 );
 
 self.addEventListener('message', (event) => {
